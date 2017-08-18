@@ -278,6 +278,7 @@
         android:layout_marginRight="0dp"
         android:layout_toEndOf="@+id/btn2"
         android:background="#4d4d4d"
+        android:onClick="onClickEqual"
         android:text="="
         android:textColor="@android:color/background_light"
         android:textSize="30sp" />
